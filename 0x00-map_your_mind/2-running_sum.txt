@@ -1,0 +1,4 @@
+// FOR LOOP
+//SET Counter to SUM + 0
+//BREAK when number is a NAGATIVE NUMBER
+//PRINT final result
