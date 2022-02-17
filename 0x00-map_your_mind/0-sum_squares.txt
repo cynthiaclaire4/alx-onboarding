@@ -1,0 +1,5 @@
+/*
+ declare INPUT A and INPUT B
+let R =(input A * input B) + (input A * input B)
+print R 
+*/
