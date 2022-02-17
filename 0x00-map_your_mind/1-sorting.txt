@@ -1,0 +1,2 @@
+// create a variable called V and initialize its value to 1//
+// each read is 3 times the value of V //
